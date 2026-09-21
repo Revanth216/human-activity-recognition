@@ -292,7 +292,7 @@ The dataset contains recordings from smartphone accelerometer and gyroscope sens
 
 ## 👤 Author
 
-**[Revanth]**
+**Revanth Valupadasu**
 
 
 ---
