@@ -292,9 +292,8 @@ The dataset contains recordings from smartphone accelerometer and gyroscope sens
 
 ## 👤 Author
 
-**[Your Name]**
+**[Revanth]**
 
-Data Engineering | Machine Learning | AI
 
 ---
 
